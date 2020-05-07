@@ -1,6 +1,6 @@
-/*本题要求编写程序，输出一个短句"Welcome to You!"*/
+/*本题要求编写程序，输出指定的带框文字。*/
 #include <stdio.h>
 int main(void)
 {
-    printf("Welcome to You!");
+    printf("************\n  Welcome\n************");
 }

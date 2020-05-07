@@ -1,6 +1,6 @@
-/*本题要求编写程序，输出一个短句"What is a computer?"*/
+/*本题要求编写程序，输出指定的由“*”组成的倒三角图案。*/
 #include <stdio.h>
 int main(void)
 {
-    printf("What is a computer?");
+    printf("* * * *\n * * *\n  * *\n   *");
 }

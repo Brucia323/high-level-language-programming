@@ -1,6 +1,6 @@
-/*本题要求编写程序，输出一个短句"Programming in C is fun!"*/
+/*本题要求编写程序，输出指定的由“*”组成的三角图案。*/
 #include <stdio.h>
 int main(void)
 {
-    printf("Programming in C is fun!");
+    printf("****\n***\n**\n*");
 }
