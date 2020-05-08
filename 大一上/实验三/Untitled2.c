@@ -3,7 +3,7 @@
 2）转换成大写字母；
 3）转换后分别用putchar和printf函数输出这两个大写字母。*/
 #include <stdio.h>
-int main()
+int main(void)
 {
     char a, b, c, d;
     a = getchar();

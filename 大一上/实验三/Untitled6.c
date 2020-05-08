@@ -5,7 +5,7 @@
 3）利用公式算出对应的摄氏温度C；
 4）调用printf函数输出摄氏温度，输出时取小数点后三位数字。*/
 #include <stdio.h>
-int main()
+int main(void)
 {
     float F, C;
     scanf("%f", &F);

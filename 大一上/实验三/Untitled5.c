@@ -2,7 +2,7 @@
 1）用getchar函数读入一个字符；
 2) 用printf函数输出该字符对应的ASCII码。*/
 #include <stdio.h>
-int main()
+int main(void)
 {
     char a;
     a = getchar();

@@ -4,7 +4,7 @@
 3）计算圆的周长l与面积s，并输出周长和面积，输出时取小数点后两位数字；*/
 #include <stdio.h>
 #define PI 3.14159
-int main()
+int main(void)
 {
     float r, l, s;
     scanf("%f", &r);

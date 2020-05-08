@@ -2,7 +2,7 @@
 fun(x)=(2x^2-1)/(|e^(2x)-tan(x)|+1)*/
 #include <stdio.h>
 #include <math.h>
-int main()
+int main(void)
 {
     double x, y;
     scanf_s("%lf", &x);
