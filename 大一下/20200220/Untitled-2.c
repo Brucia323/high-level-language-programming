@@ -12,5 +12,5 @@ int main()
     }
     ave = sum / 5.0;
     per = ave;
-    printf("total=%d\naverage=%.2lf\npercentage=%.2lf%%.", sum, ave, per);
+    printf("total = %d\naverage = %.2lf\npercentage = %.2lf%%.", sum, ave, per);
 }

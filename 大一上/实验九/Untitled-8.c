@@ -16,6 +16,6 @@ int main()
         /**/ s += pow(a[i] - ave, 2); /**/
     s /= 10;
     s = pow(s, 0.5);
-    printf("s=%lf\n", s);
+    printf("s = %lf\n", s);
     return 0;
 }

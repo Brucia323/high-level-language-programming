@@ -24,6 +24,6 @@ int main()
         num = 0;
     else
         num = j - k;
-    printf("num=%d\n", num);
+    printf("num = %d\n", num);
     return 0;
 }

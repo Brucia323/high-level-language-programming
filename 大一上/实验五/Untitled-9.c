@@ -23,5 +23,5 @@ int main(void)
         }
         i++;
     }
-    printf("max=%d max_at=%d,min=%d min_at=%d", max, l, min, m);
+    printf("max = %d max_at = %d, min = %d min_at = %d", max, l, min, m);
 }

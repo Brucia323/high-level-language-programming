@@ -10,6 +10,6 @@ int main(void)
     scanf("%f", &r);
     l = 2 * PI * r;
     s = PI * r * r;
-    printf("l=%.2f,s=%.2f", l, s);
+    printf("l = %.2f, s = %.2f", l, s);
     return 0;
 }

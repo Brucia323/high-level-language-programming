@@ -26,5 +26,5 @@ int main(void)
         y = z;
         z = a;
     }
-    printf("small to big:%d %d %d", x, y, z);
+    printf("small to big: %d %d %d", x, y, z);
 }

@@ -8,5 +8,5 @@ int main(void)
     scanf("%d", &n);
     for (i = 1; i <= n; i++)
         sum += pow(7, i);
-    printf("f(%d)=%d", n, sum);
+    printf("f(%d) = %d", n, sum);
 }

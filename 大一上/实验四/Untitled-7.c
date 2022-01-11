@@ -34,14 +34,14 @@ int main(void)
                 x = sqrt(4 * a * c - b * b);
                 x1 = -b / (2 * a);
                 x2 = x / (2 * a);
-                printf("%.2f+%.2fi\n", x1, x2);
-                printf("%.2f-%.2fi\n", x1, x2);
+                printf("%.2f + %.2fi\n", x1, x2);
+                printf("%.2f - %.2fi\n", x1, x2);
             }
         }
         if (a != 0 && b == 0 && c != 0)
         {
-            printf("0.00+%.2fi\n", sqrt(c / a));
-            printf("0.00-%.2fi\n", sqrt(c / a));
+            printf("0.00 + %.2fi\n", sqrt(c / a));
+            printf("0.00 - %.2fi\n", sqrt(c / a));
         }
         if (a != 0 && b == 0 && c == 0)
             printf("0.00\n");

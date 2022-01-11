@@ -14,5 +14,5 @@ int main()
         if (/**/ *p < min /**/)
             min = *p;
     }
-    printf("In string:max=%c,min=%c\n", max, min);
+    printf("In string: max = %c, min = %c\n", max, min);
 }

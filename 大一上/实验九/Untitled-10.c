@@ -13,6 +13,6 @@ main()
     }
     for (/**/ p = a /**/; p < a + 10; p++)
         y += /**/ 1.0 / *p /**/;
-    printf("y=%lf\n", y);
+    printf("y = %lf\n", y);
     return 0;
 }

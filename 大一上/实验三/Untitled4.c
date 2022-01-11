@@ -9,6 +9,6 @@ int main(void)
     scanf("%f%f%f%f", &a, &b, &c, &d);
     sum = a + b + c + d;
     avg = sum / 4;
-    printf("sum=%.2f,avg=%.2f", sum, avg);
+    printf("sum = %.2f, avg = %.2f", sum, avg);
     return 0;
 }

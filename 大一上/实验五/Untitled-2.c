@@ -24,5 +24,5 @@ int main(void)
             f++;
         i++;
     }
-    printf("all in all:char=%d space=%d digit=%d others=%d", c, d, e, f);
+    printf("all in all: char = %d space = %d digit = %d others = %d", c, d, e, f);
 }
